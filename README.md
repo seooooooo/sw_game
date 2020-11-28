@@ -19,14 +19,19 @@
   + 재료가 한 번 틀릴 때마다 받을 금액은 500원씩 차감됩니다.
   
 4. 부족한 재료는 오른쪽 상단에 위치하는 배달 버튼을 이용해 주문합니다.
-  + 주문한 재료는 5초 후에 자동으로 채워집니다.
   
-5. 플레이 시간이 1분 경과 시, 총 수익이 1만원 이상 일 경우 엔딩1을 볼수 있습니다.
-  + 5천원 이상은 엔딩2, 그 외는 엔딩3을 보게됩니다.
+5. 플레이 시간이 1분 20초 경과 시, 총 수익이 1만원 이상 일 경우 엔딩1을 볼수 있습니다.
+  + 그 외는 엔딩2 보게됩니다.
 ```
 
 #### Copyright
 ```
 게임에 사용된 모든 이미지는 Aseprite를 이용해 제작했습니다.
-(추가예정)
+
+사용 노래 (No copyright)
+alimar - Nature (Vlog No Copyright Music)
+
+Ikson - Christmas (Vlog No Copyright Music)
+
+Christmas Music For Vlogs No Copyright Music | Deck the Halls B by Kevin MacLeod
 ```
