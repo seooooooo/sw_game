@@ -1,6 +1,8 @@
 ### sw game
 #### title : icecream cart (20185171)
 
+[![Video Label](https://img.youtube.com/vi/nEYXPB4vkrU/0.jpg)](https://youtu.be/nEYXPB4vkrU)
+
 #### Explanation
 ```
 이 게임은 유니티 2D를 이용한 단순 2D게임으로, 아이스크림 카트로 찾아오는 손님들에게 아이스크림을 판매하는 게임입니다.
@@ -22,11 +24,6 @@
   
 5. 플레이 시간이 1분 20초 경과 시, 총 수익이 1만원 이상 일 경우 엔딩1을 볼수 있습니다.
   + 그 외는 엔딩2 보게됩니다.
-```
-
-#### link 
-```
-[![Video Label](https://img.youtube.com/vi/nEYXPB4vkrU/0.jpg)](https://youtu.be/nEYXPB4vkrU)
 ```
 
 #### Copyright
