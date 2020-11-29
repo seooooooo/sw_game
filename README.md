@@ -24,6 +24,11 @@
   + 그 외는 엔딩2 보게됩니다.
 ```
 
+#### link 
+```
+[![Video Label](https://img.youtube.com/vi/nEYXPB4vkrU/0.jpg)](https://youtu.be/nEYXPB4vkrU)
+```
+
 #### Copyright
 ```
 게임에 사용된 모든 이미지는 Aseprite를 이용해 제작했습니다.
